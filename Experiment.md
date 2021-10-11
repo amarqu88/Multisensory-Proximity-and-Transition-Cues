@@ -6,9 +6,11 @@ We want to investigate how to successfully inform the user that a new informatio
 
 ## Description of the Cues and Modes
 
-The experiment uses three cue combination/modes which were determined in a user preference study in advance. Modes consist of proximity and transition cues in either visual, auditory, or vibrotactile form. The amount of modes as well as the desired cue combinations can be adjusted in the *PerformanceStudy.cs*-Script of the *Camera*-GameObject. Note that all elements of proximity and transition feedback will be fully randomized during the study.
+The experiment uses three cue combination/modes which were determined in a user preference study in advance. Modes consist of proximity and transition cues in either visual, auditory, or vibrotactile form. The amount of modes as well as the desired cue combinations can be adjusted in the *PerformanceStudy.cs*-Script of the *Camera*-GameObject. Note that all elements of proximity and transition feedback will be fully randomized over all trials during the study.
 
-<center><img src="./Images/feedbackcombo.png" width="500"/></center>
+<center><img src="./Images/feedback+trials.png" width="500"/></center>
+
+To change the amount of training and/or performance trials, adjust the according value in the **PerformanceStudy.cs**-Script of the *Camera*-GameObject.
 
 The three selected modes are described visually in an informal manner below. For further information, please refer to the IEEE TVCG Article [DOI: 10.1109/TVCG.2021.3116673](https://doi.org/10.1109/TVCG.2021.3116673).
 

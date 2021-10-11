@@ -12,7 +12,8 @@ A computer with Windows 10 installed and a connected HTC Vive is required to run
 
 ## Open Project & install required packages
 
-Open the project with Unity and wait till it's fully loaded.
+Open the project with Unity and wait till it's fully loaded. If asked, choose UnityXR as platform.
+
 All required packages are already included. In case something is not working properly, consider reimporting packages:
 
 - TextMeshPro: Unity Editor -> Window -> TextMeshPro -> "Import TMP Essential Resources" -> Import

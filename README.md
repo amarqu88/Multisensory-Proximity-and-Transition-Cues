@@ -12,7 +12,7 @@ For a detailed explanation, please refer to the IEEE TVCG Article [(DOI: 10.1109
 
 ### Table of contents
 
-The project is intended to work on the HTC Vive (Pro) and the Microsoft HoloLens (Gen1). Please refer to the according sections for the Setup instructions. For detailed experiment and User input instructions, please see the [Experiment and task description Section](Experiment.md).
+The project is intended to work on the HTC Vive (Pro) and the Microsoft HoloLens (Gen1). Please refer to the according sections for the Setup instructions. For detailed experiment and User input information, please see the [Experiment and task description Section](Experiment.md).
 
 - [Setup VR Environment](SetupVR.md)
 - [Setup AR Environment](SetupAR.md)
