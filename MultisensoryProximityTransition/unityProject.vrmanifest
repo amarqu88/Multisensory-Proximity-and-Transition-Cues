@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.multimodaltransitions.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\Unity\\Documents\\Unity Projects\\proxo\\Unity Project\\MultisensoryProximityTransition\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "MultimodalTransitions [Testing]"
+        }
+      }
+    }
+  ]
+}

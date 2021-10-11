@@ -1,0 +1,132 @@
+[
+  {
+    "TactorName": "WestMotor",
+    "GPIOPin": 4,
+    "MinFrequency": 0,
+    "MaxFrequency": 100,
+    "IsEnabled": true,
+    "Position": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "DegreePosition": 180.0,
+    "Rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "LatitudeResponseAreaDeg": {
+      "x": -45,
+      "y": 45
+    },
+    "LongitudeResponseAreaDeg": {
+      "x": -180,
+      "y": -9
+    }
+  },
+  {
+    "TactorName": "NorthWestMotor",
+    "GPIOPin": 0,
+    "MinFrequency": 0,
+    "MaxFrequency": 100,
+    "IsEnabled": true,
+    "Position": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "DegreePosition": 135.0,
+    "Rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "LatitudeResponseAreaDeg": {
+      "x": -45,
+      "y": 45
+    },
+    "LongitudeResponseAreaDeg": {
+      "x": -10,
+      "y": -4.5
+    }
+  },
+  {
+    "TactorName": "NorthMotor",
+    "GPIOPin": 1,
+    "MinFrequency": 0,
+    "MaxFrequency": 100,
+    "IsEnabled": true,
+    "Position": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "DegreePosition": 90.0,
+    "Rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "LatitudeResponseAreaDeg": {
+      "x": -45,
+      "y": 45
+    },
+    "LongitudeResponseAreaDeg": {
+      "x": -5,
+      "y": 5
+    }
+  },
+  {
+    "TactorName": "NorthEastMotor",
+    "GPIOPin": 2,
+    "MinFrequency": 0,
+    "MaxFrequency": 100,
+    "IsEnabled": true,
+    "Position": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "DegreePosition": 45.0,
+    "Rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "LatitudeResponseAreaDeg": {
+      "x": -45,
+      "y": 45
+    },
+    "LongitudeResponseAreaDeg": {
+      "x": 4.5,
+      "y": 10
+    }
+  },
+  {
+    "TactorName": "EastMotor",
+    "GPIOPin": 3,
+    "MinFrequency": 0,
+    "MaxFrequency": 100,
+    "IsEnabled": true,
+    "Position": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "DegreePosition": 0.0,
+    "Rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "LatitudeResponseAreaDeg": {
+      "x": -45,
+      "y": 45
+    },
+    "LongitudeResponseAreaDeg": {
+      "x": 9,
+      "y": 180
+    }
+  }
+]
